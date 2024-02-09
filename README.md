@@ -6,6 +6,8 @@ Desenvolvedor entusiasta apaixonado por resolver problemas e criar soluções in
 
 Além da programação, tenho uma paixão por animes, filmes e séries. Passar horas imerso em mundos fantásticos e explorar narrativas cativantes é uma das minhas formas favoritas de relaxar e recarregar as energias. Sempre estou aberto a recomendações e debates sobre os últimos lançamentos ou os clássicos atemporais. Se você também é um entusiasta do universo geek, vamos trocar ideias sobre nossas obras favoritas e quem sabe até colaborar em projetos inspirados nelas!
 
+<br>
+
 [ThiagoNovaes.com](https://www.thiagonovaes.com/)
 
 <div align="center">
