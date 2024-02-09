@@ -8,8 +8,10 @@ Além da programação, tenho uma paixão por animes, filmes e séries. Passar h
 
 [ThiagoNovaes.com](https://www.thiagonovaes.com/)
 
-[![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=magobr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magobr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=magobr&theme=tokyonight&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=magobr&theme=tokyonight&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+</p>
 
 ## 💻 Tecnologias e Ferramentas
 
