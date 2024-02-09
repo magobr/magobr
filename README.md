@@ -1,14 +1,17 @@
-# Olá, bem vindo ao meu perfil!
+# Olá, códigueiros! 👋
 
-Apaixonado por tecnologia, filmes e HQ's. 
+## BIO
+
+Desenvolvedor entusiasta apaixonado por resolver problemas e criar soluções inovadoras. Estou sempre em busca de aprender e aprimorar minhas habilidades. Fascinado por tecnologia e sua capacidade de impactar positivamente o mundo, quero muito contribuir para novos projetos e colaborar com a comunidade de desenvolvimento. Vamos codar juntos para fazer a diferença!
+
+Além da programação, tenho uma paixão por animes, filmes e séries. Passar horas imerso em mundos fantásticos e explorar narrativas cativantes é uma das minhas formas favoritas de relaxar e recarregar as energias. Sempre estou aberto a recomendações e debates sobre os últimos lançamentos ou os clássicos atemporais. Se você também é um entusiasta do universo geek, vamos trocar ideias sobre nossas obras favoritas e quem sabe até colaborar em projetos inspirados nelas!
 
 [ThiagoNovaes.com](https://www.thiagonovaes.com/)
 
 [![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=magobr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magobr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias que eu uso no meu dia
-
+## 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
