@@ -8,7 +8,7 @@ Além da programação, tenho uma paixão por animes, filmes e séries. Passar h
 
 [ThiagoNovaes.com](https://www.thiagonovaes.com/)
 
-<div style="display: flex; width:100%; flex-direction: column; justify-content:center; align-items:center">
+<div align="center">
         <img src="https://github-readme-stats.vercel.app/api/?username=magobr&show_icons=true&theme=tokyonight&hide_border=true"  width="50%"/></a>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=magobr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="50%"/></a>
 </div>
