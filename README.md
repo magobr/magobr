@@ -1,11 +1,10 @@
 # Olá, bem vindo ao meu perfil!
+
 Apaixonado por tecnologia, filmes e HQ's. 
 
-[![Blog](https://img.shields.io/website?label=ThiagoNovaes.com&style=for-the-badge&url=https://thiagonovaes.com/)](https://thiagonovaes.com)
+[ThiagoNovaes.com](https://www.thiagonovaes.com/)
 
-[![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=magobr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magobr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=magobr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magobr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
